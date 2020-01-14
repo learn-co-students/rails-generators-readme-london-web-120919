@@ -5,7 +5,7 @@ If you go down the list on all of the tasks necessary to build out CRUD function
 A primary goal of the Rails team was to make it efficient to build core application functionality. The Rails system has a number of generators that will do some of the manual work for us.
 
 As nice as it is to use the generators to save time, they also provide some additional extra benefits:
-
+kv
 * They can setup some basic specs for an application's test suite. They won't write our complex logic tests for us, but they will provide some basic examples.
 
 * They are setup to work the same way each time. This helps standardize your code and enables your development to be more efficient since you don't have to worry as much about bugs related to spelling, syntax errors, or anything else that can occur when writing code manually.
